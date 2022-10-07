@@ -1,0 +1,32 @@
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 13pt;
+    /* text-indent: 20px; */
+    line-height:20px;
+    margin-top: 0px;
+    margin-bottom:10px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Heavy';
+}
+
+.infos{
+    font-family:'Arial Narrow';
+    text-transform: uppercase;
+}
+
+.big_quote{
+    font-family:'Arial Narrow';
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #26336c;
+    margin-top: 0px;
+    margin-bottom:10px;
+}
+
+.caption{
+    font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size : 11pt;
+    line-height : 20px
+}
